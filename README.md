@@ -1,6 +1,7 @@
 # Hey, I'm Aryan Saraf 👋
 
 ## Thanks for stopping by. Here's a little about who I am...
+  - 📌 I'm from Rajasthan, India
   - 😄 My pronouns are: He/His/Him
   - 👀 I'm absolutely very interested in learning more about the fascinating world of Data Engineering
   - 🌱 I’m currently learning about
